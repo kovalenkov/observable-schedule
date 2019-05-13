@@ -1,2 +1,2 @@
-# observable-scheduler
+# observable-schedule
 Reactive Node Schedule
